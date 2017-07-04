@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PHP Info</title>
+	<title>PHP Test Page</title>
 </head>
 <body>
 <?php
